@@ -1,0 +1,5 @@
+def subtract{a}from{b}:
+  return b - a
+
+c = subtract{3}from{5}
+print{c}
